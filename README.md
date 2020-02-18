@@ -24,4 +24,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
+<<<<<<< HEAD
 Feito com ❤️ by  Henrique Brites :wave:
+=======
+Feito com ❤️ by  Henrique Brites :wave:
+>>>>>>> d754ab04a6a581123b9f1cd8b1c924e0b238690b
