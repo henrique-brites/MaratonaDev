@@ -20,6 +20,7 @@
   "homepage": "https://github.com/henrique-brites/MaratonaDev#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mysql2": "^2.1.0",
     "nodemon": "^2.0.2",
     "nunjucks": "^3.2.0"
   }
