@@ -6,6 +6,10 @@ Este maravilhoso projeto está sendo desenvolvido com as seguintes tecnologias:
 - [HTML5]
 - [CSS3]
 - [JavaScript]
+- [Node.js]
+- [Nodemon]
+- [Nunjucks]
+- [MySQL]
 
 ## :computer: Projeto
 
